@@ -1,0 +1,13 @@
+#display {
+    background: black;
+    color: yellow;
+    width: 100vw;
+    height: 30vh;
+    font-size: 50px;
+    padding-top: 75px;
+}
+
+#button-pad {
+    width: 100%;
+    height: auto;
+}
